@@ -1,8 +1,13 @@
 ## Hi 👋
 
-I am a Computer Science Ph.D. student at UCLA, co-advised by Nanyun Peng and Kai-Wei Chang. I work on Multimodality (Vision + Language) and Embodied Learning. I'm also a research scientist intern at Meta FAIR Perception. Prior to my PhD, I was a visiting researcher at Stanford SVL, working with Jiajun Wu and Fei-Fei Li.
+I am a Computer Science Ph.D. student at UCLA, co-advised by Nanyun Peng and Kai-Wei Chang. I work on Multimodality (Vision + Language) and Embodied Learning. I'm also a research scientist intern at Meta Superintelligence Labs (Segment Anything Team). Prior to my PhD, I was a visiting researcher at Stanford SVL, working with Jiajun Wu and Fei-Fei Li.
 
 [My Homepage](https://yu-bryan-zhou.github.io/)
+
+
+
+
+
 <!--
 **bryanzhou008/bryanzhou008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
