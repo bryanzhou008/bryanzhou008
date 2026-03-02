@@ -1,6 +1,8 @@
 ## Hi 👋
 
-I am a Computer Science Ph.D. student at UCLA, co-advised by Nanyun Peng and Kai-Wei Chang. I work on Multimodality (Vision + Language) and Embodied Learning. I'm also a research scientist intern at Meta Superintelligence Labs (Segment Anything Team). Prior to my PhD, I was a visiting researcher at Stanford SVL, working with Jiajun Wu and Fei-Fei Li.
+I am a Computer Science Ph.D. student at UCLA, co-advised by Kai-Wei Chang and Nanyun Peng. I work on Multimodality (Vision + Language) and Embodied Learning.
+
+I led visual agentic reasoning efforts for Segment Anything 3 at Meta Superintelligence Labs. Prior to my PhD, I spent time at Stanford SVL, working with Jiajun Wu and Fei-Fei Li.
 
 [My Homepage](https://yu-bryan-zhou.github.io/)
 
