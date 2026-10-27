@@ -6,8 +6,6 @@ At Meta, I contributed to grounding post-training for Muse Models 🥑 🍉. I a
 
 Previously, I worked on embodied agents at Stanford SVL, with Manling Li, Jiajun Wu, and Fei-Fei Li.
 
-My research is supported by the Amazon AI PhD Fellowship.
-
 [My Homepage](https://yu-bryan-zhou.github.io/)
 
 
