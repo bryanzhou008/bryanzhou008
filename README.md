@@ -1,8 +1,12 @@
 ## Hi 👋
 
-I am a Computer Science Ph.D. student at UCLA, co-advised by Kai-Wei Chang and Nanyun Peng. I work on Multimodality (Vision + Language) and Embodied Learning.
+I am a Computer Science Ph.D. student at UCLA, advised by Kai-Wei Chang and Nanyun Peng. I work on Multimodal (Vision + Language) and Embodied Learning.
 
-I led visual agentic tool-use for Segment Anything 3 at Meta Superintelligence Labs. Previously, I worked on embodied agents at Stanford SVL, with Jiajun Wu and Fei-Fei Li.
+At Meta, I contributed to grounding post-training for Muse Models 🥑 🍉. I also built training data pipelines for Segment Anything Models and created SAM 3 Agent.
+
+Previously, I worked on embodied agents at Stanford SVL, with Manling Li, Jiajun Wu, and Fei-Fei Li.
+
+My research is supported by the Amazon AI PhD Fellowship.
 
 [My Homepage](https://yu-bryan-zhou.github.io/)
 
